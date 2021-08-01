@@ -1,4 +1,3 @@
-#Fake news detection
 Technology being advancing rapidly, digital news is exposed to users across the globe thereby
 increasing the spread of rumors and misinformation online. This causes negative impact on social,
 political and economic well-being. Most of the fake news are spread in online platforms like the
